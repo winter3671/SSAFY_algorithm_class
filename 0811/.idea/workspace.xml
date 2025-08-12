@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45586ee9-84c6-4981-8f72-e4488cb3b83a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner_palindrome_check/1989_beginner_palindrome_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner_palindrome_check/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner_palindrome_check/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome/18222_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome/4861_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome/4861_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome_1/1215_palindrome_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome_1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome_1/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_comparison/18221_string_comparison.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_comparison/4864_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_comparison/4864_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_height/14510_tree_height.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_height/Sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_height/Sample_output.txt" afterDir="false" />
-    </list>
+    <list default="true" id="45586ee9-84c6-4981-8f72-e4488cb3b83a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunManager" selected="Python.18221_string_comparison">
@@ -162,5 +146,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
